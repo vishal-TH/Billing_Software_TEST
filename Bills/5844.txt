@@ -1,0 +1,21 @@
+	            Welcome TH_Retil
+
+ Bill Number : 5844
+ Customer Name : Vishal 
+ Customer ID : TH_1
+ Phone Number : 9876543210
+=======================================================
+ Products			Quantity			Price
+=======================================================
+ Bath Soap			   1			 40
+ Rice			   2			 150
+ Dal			   2			 180
+ Wheat			   1			 80
+ Mustard Oil			   2			 400
+ Sprit			   1			 65
+*******************************************************
+ Cosmetic Tax					     Rs.2.0
+ Grocery Tax					     Rs.81.0
+ Cold Drink Tax					     Rs.3.25
+ Total Bill : 					     Rs.1001.25
+*******************************************************

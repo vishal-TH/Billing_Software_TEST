@@ -1,0 +1,32 @@
+	            Welcome TH_Retil
+
+ Bill Number : 8471
+ Customer Name : Vishal
+ Customer ID : TH_1
+ Phone Number : 9876543210
+=======================================================
+ Products			Quantity			Price
+=======================================================
+ Bath Soap			   5			 200
+ Face Wash			   1			 140
+ Face Cream			   1			 70
+ Hair Spray			   1			 180
+ Body Lotion			   1			 200
+ Hair Gell			   3			 60
+ Rice			   1			 75
+ Dal			   2			 180
+ Wheat			   2			 160
+ Mustard Oil			   2			 400
+ Sugar			   1			 45
+ Tea			   1			 20
+ Mountain Dew			   1			 60
+ Pepsi			   2			 90
+ Limca			   1			 45
+ Red Bull			   2			 220
+ Lassi			   8			 160
+*******************************************************
+ Cosmetic Tax					     Rs.42.5
+ Grocery Tax					     Rs.88.0
+ Cold Drink Tax					     Rs.28.75
+ Total Bill : 					     Rs.2464.25
+*******************************************************
