@@ -213,9 +213,9 @@ class Bill_App:
                                         (self.hair_gell.get()*20)
                                     )
 
-        self.cosmetic_price.set("Rs." + str(self.total_cosmetic_price))
+        self.cosmetic_price.set("Rs." + str(self.total_cosmetic_price))  # This calculates the total cosmetics price
 
-        self.cosmetic_tax.set("Rs." + str(round((self.total_cosmetic_price * 0.05), 2)))
+        self.cosmetic_tax.set("Rs." + str(round((self.total_cosmetic_price * 0.05), 2)))    # This calculates the total cosmetics tax
 
 
         self.total_grocery_price = float(
