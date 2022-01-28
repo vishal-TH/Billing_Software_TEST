@@ -1,6 +1,6 @@
 # Billing_Software_TEST
 
-In this test billing software we have imported :
+In this test billing software i have imported :
 1. tkinter
 2. math
 3. random
